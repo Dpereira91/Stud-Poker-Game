@@ -1,0 +1,18 @@
+/*---Pseudocode---
+ * 1. Receive input from command line a validate
+ * 2. Create a deck of cards (array of structs)
+ * 3. Display deck
+ * 4. Shuffle deck (using srand() and rand())
+ * 5. Display deck after shuffle
+ * 6. Create a 2D array where rows are hands and columns are
+ * number of cards per player.
+ * 7. Populate the 2D array (deal cards) and remove cards from deck 
+ * at the same time.
+ * 8. Display Hand.
+ * 9. Verify the cards were removed from the deck by displaying deck
+ * again (optional)
+ * 10. Sort hands
+ * 11. Displayed sorted hands
+ * 12. Rank cards
+ * 13.Display ranked cards
+ * 14.Find winner 
