@@ -1,6 +1,5 @@
 /* File: DeckFunctions.c
  * Author: Darilys Pereira
- * Panther ID: 3456178
  * 
  * This file contains the most common functions to manipulate a
  * deck of cards. You can create a deck, display a deck, and shuffle a deck.
