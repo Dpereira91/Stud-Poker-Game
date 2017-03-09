@@ -1,6 +1,5 @@
 /* File: PokerFunctions.c
  * Author: Darilys Pereira
- * Panther ID: 3456178
  * 
  * This file contains the most common functions to play poker. You can
  * determine the basic rankings and then decide the winner of the game 
