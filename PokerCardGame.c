@@ -1,7 +1,6 @@
 /* 
  * File:   CardGame.c
  * Author: Darilys Pereira
- * Panther ID: 3456178
  * Created on February 22, 2016, 6:51 PM
  * 
  * This program creates a deck of 52 cards using 4 suits
